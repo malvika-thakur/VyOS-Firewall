@@ -1,4 +1,4 @@
-# Turning the firewall Off/On
+# Turning the VyOS firewall Off/On
 To enable the firewall with the following commands and reboot.
 
 ![vyos10](https://github.com/malvika-thakur/VyOS-Firewall/assets/60217652/78de2376-ea0f-4cfd-b791-7f0e76e0eb63)
